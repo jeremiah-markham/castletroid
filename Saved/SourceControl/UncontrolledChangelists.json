@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/derpy/Documents/Unreal Projects/Castletroid/Content/__ExternalActors__/Variant_SideScroller/Lvl_SideScrolling/B/U3/RRUI2Y2333693N3R591QVU.uasset",
+				"C:/Users/derpy/Documents/Unreal Projects/Castletroid/Content/__ExternalActors__/Variant_SideScroller/Lvl_SideScrolling/2/GS/LQTLGL027AX8V2GDOO52ET.uasset",
+				"C:/Users/derpy/Documents/Unreal Projects/Castletroid/Content/__ExternalActors__/Variant_SideScroller/Lvl_SideScrolling/9/2C/JFRWQ4JL32YM07B66FM43O.uasset",
+				"C:/Users/derpy/Documents/Unreal Projects/Castletroid/Content/__ExternalActors__/Variant_SideScroller/Lvl_SideScrolling/B/SY/0ND58PDUXO4HGBPIZMQ4I7.uasset"
+			]
+		}
+	]
+}
