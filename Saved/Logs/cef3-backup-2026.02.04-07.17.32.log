@@ -1,0 +1,21 @@
+[6628:28244:0203/235758.860:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[6628:25676:0203/235758.900:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[6628:28244:0203/235758.920:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[6628:35040:0203/235809.192:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
+[6628:28244:0203/235809.474:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
+[6628:28244:0203/235809.474:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
+[6628:28244:0203/235809.474:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
+[6628:28244:0203/235809.474:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
+[6628:35040:0203/235809.866:WARNING:browser_info.cc(345)] Returning a speculative frame for [10,5]
+[6628:35040:0203/235842.269:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[6628:35040:0204/000020.007:WARNING:browser_info.cc(345)] Returning a speculative frame for [14,9]
+[6628:28244:0204/000020.031:WARNING:browser_info.cc(345)] Returning a speculative frame for [14,9]
+[6628:28244:0204/000020.031:WARNING:browser_info.cc(345)] Returning a speculative frame for [14,9]
+[6628:28244:0204/000020.031:WARNING:browser_info.cc(345)] Returning a speculative frame for [14,9]
+[6628:28244:0204/000020.031:WARNING:browser_info.cc(345)] Returning a speculative frame for [14,9]
+[3748:19580:0204/000227.056:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[3748:19580:0204/000227.056:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[6628:28244:0204/005346.973:ERROR:device_event_log_impl.cc(196)] [00:53:46.973] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[6628:28244:0204/005349.387:ERROR:device_event_log_impl.cc(196)] [00:53:49.379] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[6628:28244:0204/010208.426:ERROR:device_event_log_impl.cc(196)] [01:02:08.225] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[6628:28244:0204/011732.421:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
