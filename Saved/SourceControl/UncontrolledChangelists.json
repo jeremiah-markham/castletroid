@@ -10,7 +10,6 @@
 				"C:/Users/derpy/Documents/Unreal Projects/Castletroid/Content/__ExternalActors__/Variant_SideScroller/Lvl_SideScrolling/9/2C/JFRWQ4JL32YM07B66FM43O.uasset",
 				"C:/Users/derpy/Documents/Unreal Projects/Castletroid/Content/__ExternalActors__/Variant_SideScroller/Lvl_SideScrolling/B/SY/0ND58PDUXO4HGBPIZMQ4I7.uasset",
 				"C:/Users/derpy/Documents/Unreal Projects/Castletroid/Content/Variant_SideScroller/Blueprints/Items/BP_SuperPickUp.uasset",
-				"C:/Users/derpy/Documents/Unreal Projects/Castletroid/Content/ThirdPerson/MI_Red.uasset",
 				"C:/Users/derpy/Documents/Unreal Projects/Castletroid/Content/Variant_SideScroller/Materials/MI_Red.uasset",
 				"C:/Users/derpy/Documents/Unreal Projects/Castletroid/Content/Variant_SideScroller/Blueprints/BP_SideScrollingGameMode.uasset",
 				"C:/Users/derpy/Documents/Unreal Projects/Castletroid/Content/Variant_SideScroller/Blueprints/BP_SideScrollingCharacter.uasset",
@@ -22,7 +21,16 @@
 				"C:/Users/derpy/Documents/Unreal Projects/Castletroid/Content/__ExternalActors__/Variant_SideScroller/Lvl_SideScrolling/1/MY/JDZA380OQ7CHO17DX3QXND.uasset",
 				"C:/Users/derpy/Documents/Unreal Projects/Castletroid/Content/__ExternalActors__/Variant_SideScroller/Lvl_SideScrolling/C/0E/VKJVS2POOTLZKRNU5WYVAS.uasset",
 				"C:/Users/derpy/Documents/Unreal Projects/Castletroid/Content/__ExternalActors__/Variant_SideScroller/Lvl_SideScrolling/4/2V/J0QM5I0GH1GTPBNV654J6Z.uasset",
-				"C:/Users/derpy/Documents/Unreal Projects/Castletroid/Content/__ExternalActors__/Variant_SideScroller/Lvl_SideScrolling/D/QM/LA5U0DBDE3H5ZTMVXGWPZW.uasset"
+				"C:/Users/derpy/Documents/Unreal Projects/Castletroid/Content/__ExternalActors__/Variant_SideScroller/Lvl_SideScrolling/D/QM/LA5U0DBDE3H5ZTMVXGWPZW.uasset",
+				"C:/Users/derpy/Documents/Unreal Projects/Castletroid/Content/Variant_SideScroller/Blueprints/BP_Bullet.uasset",
+				"C:/Users/derpy/Documents/Unreal Projects/Castletroid/Content/Variant_SideScroller/Blueprints/BP_Enemy.uasset",
+				"C:/Users/derpy/Documents/Unreal Projects/Castletroid/Content/Variant_SideScroller/Blueprints/BPI_Damageable.uasset",
+				"C:/Users/derpy/Documents/Unreal Projects/Castletroid/Content/Variant_SideScroller/Blueprints/BP_Switch.uasset",
+				"C:/Users/derpy/Documents/Unreal Projects/Castletroid/Content/Variant_SideScroller/Blueprints/BP_SwitchAndDoor.uasset",
+				"C:/Users/derpy/Documents/Unreal Projects/Castletroid/Content/__ExternalActors__/Variant_SideScroller/Lvl_SideScrolling/D/53/W5ZRYX7T1KG4EXEOVEVB8U.uasset",
+				"C:/Users/derpy/Documents/Unreal Projects/Castletroid/Content/Variant_SideScroller/Input/IMC_SideScroller.uasset",
+				"C:/Users/derpy/Documents/Unreal Projects/Castletroid/Content/Variant_SideScroller/Input/Actions/IA_Fire.uasset",
+				"C:/Users/derpy/Documents/Unreal Projects/Castletroid/Content/ThirdPerson/MI_Red.uasset"
 			]
 		}
 	]
