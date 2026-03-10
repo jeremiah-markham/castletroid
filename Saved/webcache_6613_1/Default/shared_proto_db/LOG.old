@@ -1,2 +1,3 @@
-2026/02/17-16:36:56.699 43f4 Creating DB C:\Users\derpy\Documents\Unreal Projects\Castletroid\Saved\webcache_6613_1\Default\shared_proto_db since it was missing.
-2026/02/17-16:36:56.702 43f4 Reusing MANIFEST C:\Users\derpy\Documents\Unreal Projects\Castletroid\Saved\webcache_6613_1\Default\shared_proto_db/MANIFEST-000001
+2026/03/03-16:15:04.479 758 Reusing MANIFEST C:\Users\derpy\Documents\Unreal Projects\Castletroid\Saved\webcache_6613_1\Default\shared_proto_db/MANIFEST-000001
+2026/03/03-16:15:04.485 758 Recovering log #3
+2026/03/03-16:15:04.485 758 Reusing old log C:\Users\derpy\Documents\Unreal Projects\Castletroid\Saved\webcache_6613_1\Default\shared_proto_db/000003.log 
